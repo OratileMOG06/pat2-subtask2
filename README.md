@@ -57,16 +57,13 @@ Despite digital communication, Morse code is still used in:
 
 ---
 
-## **6. Learning Morse Code**  
-Techniques to learn:  
-- **Farnsworth Method** (Slow spacing for beginners)  
-- **Koch Method** (Learning 2 letters at a time)  
-- **Mnemonics** (Associating sounds with letters)  
+## **6. History of Morse Code**  
+Morse code was developed in 1830s by Samuel F.B Morse and his assistant Alfred Vail  as a way to send messages over electrical telegraph.
 
-**Example Mnemonics:**  
-- **A (·–)** → "A-part"  
-- **B (–···)** → "BOB is the man"  
-- **SOS (··· ––– ···)** → "Save Our Souls"  
+**Expansion and Standardizatiobn (1850s - 1900s)**
+1. 1851: The International Morse Code
+2. 1865: The International Telegraph Union(ITU)
+3. Late 1800s: Used for railways, shipping, and news agencies.
 
 ---
 
@@ -78,4 +75,3 @@ Morse code remains a vital **fallback communication method** due to its simplici
 2. *The Art and Skill of Radio-Telegraphy* (William Pierpont)  
 3. *Morse Code: Breaking the Barrier* (Gordon West)  
 
-Would you like any modifications or additional details?
