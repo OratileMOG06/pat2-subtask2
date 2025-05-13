@@ -68,10 +68,11 @@ Morse code was developed in 1830s by Samuel F.B Morse and his assistant Alfred V
 ---
 
 ## **7. Conclusion**  
-Morse code remains a vital **fallback communication method** due to its simplicity and reliability. Whether used in emergencies, aviation, or amateur radio, its structured system of dots and dashes continues to be relevant even in the digital age.  
+Though Morse Code is no longer a primary means of communication, its influence persists in unexpected ways. unlike modern digital systems that rely on vast infrastructure, Morse remains a universal low-tech language- accessible with just a sound, light, or simple tool.  
 
 ### **References**  
-1. International Morse Code Standard (ITU-R M.1677-1)  
+1. International Maritime Organization(IMO).(1999)
 2. *The Art and Skill of Radio-Telegraphy* (William Pierpont)  
-3. *Morse Code: Breaking the Barrier* (Gordon West)  
+3. *Morse Code: Breaking the Barrier* (Gordon West)
+4. International Telecommunication Union(ITU).(2009)  
 
